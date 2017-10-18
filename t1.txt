@@ -1,4 +1,4 @@
 new file;
 sub의 edit;
 master edit;
-sub edit2;
+master edit2;
