@@ -1,4 +1,1 @@
 new file;
-sub의 edit;
-master edit;
-master edit2;
